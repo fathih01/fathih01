@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fathih01
-- 👀 I’m interested in becoming front end web dev
+- 👀 I’m interested in wemen
 - 🌱 I’m currently learning html css js
 - 📫 You can reach me at fathihalfi@gmail.com
 
