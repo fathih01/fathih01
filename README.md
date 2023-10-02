@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @fathih01
-- 👀 I’m interested in wemen
-- 🌱 I’m currently learning html css js
 - 📫 You can contact me at fathihalfi@gmail.com
 
 <!---
